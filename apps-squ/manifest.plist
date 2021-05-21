@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://seespa.netlify.app/apps/seespa_app.ipa</string>
+					<string>https://seespa.netlify.app/apps-squ/seespa_app</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -37,7 +37,7 @@
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Runner</string>
+				<string>Seespa</string>
 			</dict>
 		</dict>
 	</array>

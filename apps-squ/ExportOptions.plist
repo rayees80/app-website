@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://seespa.netlify.app/apps/seespa_app.ipa</string>
+		<string>https://seespa.netlify.app/apps-squ/seespa_app</string>
 		<key>displayImageURL</key>
 		<string>https://seespa.netlify.app/57.png</string>
 		<key>fullSizeImageURL</key>
